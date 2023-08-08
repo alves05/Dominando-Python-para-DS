@@ -17,7 +17,7 @@ Neste repósitorio estão minhas soluções para os desafios 1 e 2 do modulo **D
 saldo atual da conta. Se o extrato estiver em branco, exibir a
 mensagem "Não foram realizadas movimentações". Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo: 1500.45 = R$ 1500.45
 
-### Desafio - 2
+## Desafio - 2
 [![Static Badge](https://img.shields.io/badge/sistema_bancario-v2-fff?style=for-the-badge&labelColor=blue)](https://github.com/alves05/Dominando-Python-para-DS/blob/main/Sistema-Bancario-v2.py)
 
 **Objetivo Geral:** Criar duas funções novas **Cadastrar Cliente** e **Cadastrar Conta**.
